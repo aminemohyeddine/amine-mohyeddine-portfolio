@@ -18,7 +18,7 @@
                 "github": "",
                 "website": "https://www.urw.com/fr"
             },
-            "image": "urw.PNG"
+            "image": "urw.png"
         },
         {
             "name": "Qalqul Engine",
@@ -28,7 +28,7 @@
                 "github": "",
                 "website": "https://qalqul.com/"
             },
-            "image": "qalqul.PNG"
+            "image": "qalqul.png"
         },
         {
             "name": "ArcelorMittal",
@@ -38,7 +38,7 @@
                 "github": "",
                 "website": "https://www.restaurantindien-toulouse.fr"
             },
-            "image": "arcelor-mital.PNG"
+            "image": "arcelor-mital.png"
         },
         {
             "name": "Chat GPT Clone V.1.1",
