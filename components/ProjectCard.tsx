@@ -25,10 +25,10 @@ export default function ProjectCard({ project }: ProjectType) {
                 </div>
                 <div className="project-image">
                     <Image
-                        src={require(`/images/${
-                            project.image ?? 'default-image.jpg'
-                        }`)}
-                        alt=""
+                        src={`/images/${project.image ?? 'default-image.jpg'}`} // <-- fixed
+                        alt={project.name}
+                        width={400}   // you must provide width
+                        height={300}  // and height
                         loading="lazy"
                     />
                     <div className="links">
