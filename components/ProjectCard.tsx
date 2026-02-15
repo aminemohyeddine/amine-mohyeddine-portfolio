@@ -25,8 +25,8 @@ export default function ProjectCard({ project }: ProjectType) {
                 </div>
                 <div className="project-image">
                     <Image
-                        src={require(`../public/images/${
-                            project.image || 'default-image.jpg'
+                        src={require(`/images/${
+                            project.image ?? 'default-image.jpg'
                         }`)}
                         alt=""
                         loading="lazy"
