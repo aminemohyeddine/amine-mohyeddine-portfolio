@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "name": "chanel",
+            "description": "",
+            "stack": ["JSTL", "SCSS", "JS", "React"],
+            "links": {
+                "github": "",
+                "website": "https://www.chanel.com/us"
+            },
+            "image": "channel.jpg"
+        },
+        {
+            "name": "Unibail-Rodamco-Westfield (URW)",
+            "description": "",
+            "stack": ["Next JS", "Tailwind CSS", "Contentful Headless CMS"],
+            "links": {
+                "github": "",
+                "website": "https://www.urw.com/fr"
+            },
+            "image": "urw.PNG"
+        },
+        {
+            "name": "Qalqul Engine",
+            "description": "",
+            "stack": ["React", "SASS", "JS", "Node JS", "MYSQL"],
+            "links": {
+                "github": "",
+                "website": "https://qalqul.com/"
+            },
+            "image": "qalqul.PNG"
+        },
+        {
+            "name": "ArcelorMittal",
+            "description": "",
+            "stack": ["JS", "jquery", "HTML", "CSS", "JSP"],
+            "links": {
+                "github": "",
+                "website": "https://www.restaurantindien-toulouse.fr"
+            },
+            "image": "arcelor-mital.PNG"
+        },
+        {
+            "name": "Chat GPT Clone V.1.1",
+            "description": "",
+            "stack": ["Next", "TS", "Redux", "Tailwind CSS", "FireBase"],
+            "links": {
+                "github": "",
+                "website": "https://chat-gpt-clone-v11.vercel.app/"
+            },
+            "image": "v11.jpg"
+        },
+        {
+            "name": "Chat GPT Clone V.1.0",
+            "description": "",
+            "stack": ["Next", "TS", "Redux", "Tailwind CSS", "FireBase"],
+            "links": {
+                "github": "",
+                "website": "https://chat-gpt-clone-v10.vercel.app/"
+            },
+            "image": "V10.jpg"
+        },
+        {
+            "name": "Translation APP",
+            "description": "",
+            "stack": ["React", "Redux", "Next", "Tailwind CSS"],
+            "links": {
+                "github": "",
+                "website": "https://translation-app-omega.vercel.app"
+            },
+            "image": "tt.jpg"
+        },
+        {
+            "name": "COVID-19 DETECTION APP",
+            "description": "",
+            "stack": ["HTML", "SCSS", "JS", "Python", "Flask", "ML"],
+            "links": {
+                "github": "",
+                "website": ""
+            },
+            "image": "c.jpg"
+        },
+
+        {
+            "name": "TOURISM RECOMMENDATION SYSTEM",
+            "description": "",
+            "stack": ["HTML", "SCSS", "JS", "Python", "Django", "ML"],
+            "links": {
+                "github": "",
+                "website": ""
+            },
+            "image": "t.jpg"
+        }
+    ]
+}
+

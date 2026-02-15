@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "title": "Front-end",
+            "on": true
+        },
+        {
+            "title": "Back-end",
+            "on": false
+        },
+        {
+            "title": "Databases",
+            "on": false
+        },
+        {
+            "title": "Testing",
+            "on": false
+        },
+        {
+            "title": "Tools",
+            "on": false
+        },
+        {
+            "title": "CMS",
+            "on": false
+        },
+        {
+            "title": "UI & UX",
+            "on": false
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+      "data": [
+            [
+                "HTML",
+                "CSS",
+                "SASS",
+                "Bootstrap",
+                "Tailwind CSS",
+                "Material UI",
+                "Styled Comps",
+                "JavaScript",
+                "JQuery",
+                "JSON",
+                "Typescript",
+                "React.js",
+                "Redux",
+                "Next.js",
+                "Webpack",
+                "Babel",
+                  "Vue.js",
+                "Vite"
+            ],
+            [
+                "Node.js",
+                "Express.js",
+                "Rest API"
+            ],
+            ["MySQL", "PostgreSQL", "MongoDB", "FireBase"],
+            [
+                "Testing Library",
+                "Jest",
+                "Manual Testing"
+            ],
+            [
+                "Git",
+                "GitHub",
+                "Azure DevOps",
+                "GitLab",
+                "Gulp.js",
+                "Grunt.js",
+                "NPM",
+                "YARN",
+                "ESLint",
+                "TSLint",
+                  "Prettier",
+                "Lighthouse",
+                "VS Code",
+                "WebStorm",
+                "IntelliJ IDEA",
+                "Google analytics"
+            ],
+            ["Contentful CMS"],
+            ["Photoshop", "Figma"]
+        ]
+}
