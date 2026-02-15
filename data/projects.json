@@ -73,7 +73,7 @@
         {
             "name": "COVID-19 DETECTION APP",
             "description": "",
-            "stack": ["HTML", "SCSS", "JS", "Python", "Flask", "ML"],
+            "stack": ["HTML", "SCSS", "JS"],
             "links": {
                 "github": "",
                 "website": ""
@@ -84,7 +84,7 @@
         {
             "name": "TOURISM RECOMMENDATION SYSTEM",
             "description": "",
-            "stack": ["HTML", "SCSS", "JS", "Python", "Django", "ML"],
+            "stack": ["HTML", "SCSS", "JS"],
             "links": {
                 "github": "",
                 "website": ""
