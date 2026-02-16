@@ -17,7 +17,7 @@ import { roboto_mono } from '@/fonts/fonts'
 import { gsap } from 'gsap'
 import { usePathname } from 'next/navigation'
 export default function Share({ orientation }: { orientation: string }) {
-    console.log("init")
+    console.log(process.env.EMAIL, process.env.EMAIL_PASS, process.env.GA_TRACKING_ID)
     const [toggle, setToggle] = useState(false)
     const pathname = usePathname();
     const fullUrl = typeof window !== "undefined"
