@@ -17,6 +17,7 @@ import { roboto_mono } from '@/fonts/fonts'
 import { gsap } from 'gsap'
 import { usePathname } from 'next/navigation'
 export default function Share({ orientation }: { orientation: string }) {
+    console.log("init")
     const [toggle, setToggle] = useState(false)
     const pathname = usePathname();
     const fullUrl = typeof window !== "undefined"
